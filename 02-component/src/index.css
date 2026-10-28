@@ -1,0 +1,27 @@
+*{
+  margin: 4;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Helvetica neue';
+
+
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+.car{
+  background-color: pink;
+  border-radius: 10px;
+  margin: 40px;
+  padding: 20px;
+}
+
+.nav{
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(4, 4, 94);
+
+}

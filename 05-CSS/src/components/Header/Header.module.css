@@ -1,0 +1,17 @@
+.navbar{
+    background-color: rgb(92, 92, 225);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+}
+
+.txt{
+  font-style: italic;
+}
+.btn{
+    background-color: rgb(240, 152, 20);
+    border-radius: 5px;
+
+}

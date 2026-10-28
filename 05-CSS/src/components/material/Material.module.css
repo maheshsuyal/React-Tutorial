@@ -1,0 +1,7 @@
+.para{
+    background-color: rgb(230, 71, 71);
+color: antiquewhite;
+display: flex;
+justify-content: center;
+padding: 30px;
+}

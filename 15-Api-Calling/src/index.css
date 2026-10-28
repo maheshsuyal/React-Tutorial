@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  padding:0;
+  
+  
+}
+
+html,body{
+ height: 100%;
+ width: 100%;
+ background-color:rgba(0, 0, 0, 0.712);
+ color: aliceblue;
+}
+
+button{
+  padding: 26px;
+  margin:100px;
+  font-size: larger;
+}
+
